@@ -21,6 +21,7 @@ Can make a DOM element fullscreen in two steps.
 
 DEMO LINK
 ---------
+http://thecodejack.github.com/jquery-html5-fullscreen/demo/Test1.html
 
 DEVELOPER
 ---------
