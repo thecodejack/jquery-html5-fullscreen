@@ -4,7 +4,6 @@
 
         var defaults = {
             support: true,
-            //set to called when support test happened
             supportcallback: function() {}
         }
 
@@ -17,7 +16,6 @@
             fullscreen.$el = el;
             fullscreen.el = el[0];
             checkFullScreenSupport();
-            // code goes here
         }
 
         fullscreen.enableFullScreen = function() {
@@ -42,8 +40,6 @@
         }
 
         var checkFullScreenSupport = function() {
-            // code goes here
-
 
         }
 
